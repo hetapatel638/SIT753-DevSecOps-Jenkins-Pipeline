@@ -1,0 +1,20 @@
+{
+  "name": "sit753-devsecops-jenkins-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetapatel638/SIT753-DevSecOps-Jenkins-Pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetapatel638/SIT753-DevSecOps-Jenkins-Pipeline/issues"
+  },
+  "homepage": "https://github.com/hetapatel638/SIT753-DevSecOps-Jenkins-Pipeline#readme"
+}
